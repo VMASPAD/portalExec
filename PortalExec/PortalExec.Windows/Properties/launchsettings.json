@@ -1,0 +1,10 @@
+{
+	"profiles": {
+		"PortalExec.Windows (Unpackaged)": {
+			"commandName": "Project"
+		},
+		"PortalExec.Windows (Package)": {
+			"commandName": "MsixPackage"
+		}
+	}
+}
